@@ -75,7 +75,12 @@ This analysis enables organizations to:
 ---
 
 ## 📸 Dashboard Preview
-(Add your screenshots here)
+![New Microsoft PowerPoint Presentation](https://github.com/user-attachments/assets/fd6ed315-6e02-4032-b618-ae7dd8fd8f54)
+<img width="960" height="720" alt="New Microsoft PowerPoint Presentation" src="https://github.com/user-attachments/assets/fbabc673-a8da-44a9-96e7-f803166fe66f" />
+<img width="960" height="720" alt="New Microft PowerPoint Presentation" src="https://github.com/user-attachments/assets/ab638e07-ee11-4670-bda6-774f7cd0e284" />
+<img width="960" height="720" alt="New Microsoft Presentation" src="https://github.com/user-attachments/assets/f2775dbf-24d9-4172-b900-700995d11fe9" />
+<img width="960" height="720" alt="New Presentation" src="https://github.com/user-attachments/assets/7fd5b359-b736-4dd8-9cff-15f083120b7f" />
+
 
 ---
 
@@ -96,4 +101,4 @@ I am a data analyst focused on transforming raw data into actionable business in
 ---
 
 ## 🔗 Connect with Me
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/fatemeh-khosravi-msc-1104a6b0/
