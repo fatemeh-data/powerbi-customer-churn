@@ -83,10 +83,21 @@ This analysis enables organizations to:
 
 
 ---
-
 ## 📁 Dataset
-- Source: Telco Customer Churn Dataset (e.g., Kaggle)  
-- Description: Includes customer demographics, contract details, usage behavior, and churn status  
+- Source: Customer Churn case study dataset provided as part of a data analytics training project  
+- Description: The dataset contains detailed customer-level information including demographics, contract details, service usage, customer support interactions, and financial metrics  
+- Key Features:
+  - Demographics: Age, Gender, Customer Group  
+  - Contract Information: Contract Type, Payment Method, Account Length  
+  - Usage Behavior: Call activity, Data consumption, International usage  
+  - Customer Experience: Customer service calls, churn reasons  
+  - Financial Data: Monthly charges, total charges, extra fees  
+- Target Variable: Churn Label (Yes/No)  
+- Note: The dataset is used for educational purposes and is not publicly shareable
+
+---
+## 🧩 Data Understanding
+The dataset represents a telecom customer base, where churn is influenced by a combination of behavioral, contractual, and service-related factors. The structure enables both descriptive and diagnostic analysis.
 
 ---
 
