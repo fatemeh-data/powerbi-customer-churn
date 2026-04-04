@@ -102,7 +102,8 @@ The dataset represents a telecom customer base, where churn is influenced by a c
 ---
 
 ## 📁 Project Files
-- churn_dashboard.pbix  
+- 📊 [Download Power BI Dashboard](churn_dashboard.pbix)  
+- 🖼 Dashboard Screenshots (see above)  
 
 ---
 
