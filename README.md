@@ -62,7 +62,7 @@ This dashboard aims to help businesses and analysts:
 
 1. Install Power BI Desktop  
 2. Download or clone this repository  
-3. Open `churn.pbix`  
+3. Open `powerbi-customer-churn`  
 4. Explore the dashboard and insights  
 ---
 ## 📂 Dataset / Source
@@ -131,5 +131,5 @@ I am a data analyst focused on transforming raw data into actionable business in
 
 ## 🔗 Connect with Me
 - LinkedIn: https://linkedin.com/in/fatemeh-khosravi-msc-1104a6b0/
-- Email: your-email@example.com
+- Email: khosravi.fatemeh63@gmail.com
 
