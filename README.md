@@ -56,7 +56,29 @@ This dashboard aims to help businesses and analysts:
 
 - Power BI Desktop 
 - DAX formulas for key metrics  
-- Data modeling & interactive visualizations (Charts, KPIs, Slicers)  
+- Data modeling & interactive visualizations (Charts, KPIs, Slicers)
+---
+## 🚀 Quick Start / Setup
+
+### Prerequisites
+- Power BI Desktop (Version 2.120 or later)
+
+### Steps
+1. Clone the repository:
+   Open a terminal or command prompt and run: 
+   ```bash
+   git clone https://github.com/fatemeh-data/powerbi-customer-churn.git
+ 3.  Navigate to the project folder:
+
+cd powerbi-customer-churn
+
+ 3. Open the Customer_Churn_Dashboard.pbix file in Power BI Desktop.
+ 4. Load or refresh the dataset if prompted.
+ 5. Explore the dashboard pages interactively using slicers and filters.
+---
+
+
+
 
 ---
 ## 📂 Dataset / Source
@@ -115,18 +137,10 @@ The dashboard consists of the following main pages:
 
 
 ---
-## 🚀 Quick Start / Setup
 
-### Prerequisites
-- Power BI Desktop (Version 2.120 or later)
-
-### Steps
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/fatemeh-data/powerbi-customer-churn.git
 
 
 ## 🔗 Connect with Me
 
 LinkedIn: https://linkedin.com/in/fatemeh-khosravi-msc-1104a6b0/
-
+Email:khosravi.fatemeh63@gmail.com
