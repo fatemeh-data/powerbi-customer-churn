@@ -102,9 +102,7 @@ This analysis helps organizations to:
 **Description:**
 Customer-level dataset including demographics, contract details, usage behavior, customer support interactions, and financial metrics.
 
-**Note:** Dataset used for educational purposes.
-
----
+**Key Features:**
 
 ## 📁 Project Files
 
