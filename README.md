@@ -115,21 +115,16 @@ The dashboard consists of the following main pages:
 
 
 ---
+## 🚀 Quick Start / Setup
 
-## 📁 Project Files
+### Prerequisites
+- Power BI Desktop (Version 2.120 or later)
 
-* Power BI Dashboard (.pbix)
-* Dashboard Screenshots
+### Steps
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/fatemeh-data/powerbi-customer-churn.git
 
----
-
-## 👤 About Me
-
-I am a data analyst focused on transforming raw data into actionable insights and supporting business decision-making through data.
-
-I focus on connecting data with real business problems to deliver actionable insights that support decision-making.
-
----
 
 ## 🔗 Connect with Me
 
