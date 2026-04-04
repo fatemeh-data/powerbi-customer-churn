@@ -110,8 +110,13 @@ This analysis helps organizations to:
 
 **Description:**
 Customer-level dataset including demographics, contract details, usage behavior, customer support interactions, and financial metrics.
-
-**Key Features:**
+- Key Features:
+  - Demographics: Age, Gender, Customer Group  
+  - Contract Information: Contract Type, Payment Method, Account Length  
+  - Usage Behavior: Call activity, Data consumption, International usage  
+  - Customer Experience: Customer service calls, churn reasons  
+  - Financial Data: Monthly charges, total charges, extra fees  
+- Target Variable: Churn Label (Yes/No)  
 
 ## 📁 Project Files
 
