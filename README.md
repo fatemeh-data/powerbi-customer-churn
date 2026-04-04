@@ -90,8 +90,17 @@ This analysis helps organizations to:
 ---
 
 ## 📸 Dashboard Preview
+![executive](https://github.com/user-attachments/assets/4d889d53-0c12-4547-9c08-db6b0fe91a12)
 
-![Dashboard Overview](images/executive.png)
+<img width="960" height="720" alt="customer" src="https://github.com/user-attachments/assets/d25d4be2-bc47-400f-94bf-b769378645d5" />
+
+<img width="960" height="720" alt="contract" src="https://github.com/user-attachments/assets/23e3a898-fa95-4a5d-b4d4-a414a6a5c005" />
+
+<img width="960" height="720" alt="usage" src="https://github.com/user-attachments/assets/09dda619-7d49-46f7-9bc4-d64e30f83a4b" />
+
+<img width="960" height="720" alt="support" src="https://github.com/user-attachments/assets/230254b1-ae92-41b7-8680-ea297236094c" />
+
+
 
 ---
 
