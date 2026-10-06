@@ -54,9 +54,10 @@ This dashboard aims to help businesses and analysts:
 ---
 ## 🛠️ Tools & Techniques
 
-- Power BI Desktop 
-- DAX formulas for key metrics  
-- Data modeling & interactive visualizations (Charts, KPIs, Slicers)
+- **Power BI:** Interactive dashboards, KPI cards, slicers, and business-focused data visualization
+- **DAX:** Measures for customer, churn, revenue, and retention analysis
+- **Data Modeling:** Relationships and analytical data models
+- **Business Analysis:** Customer segmentation, churn drivers, behavioral analysis, and retention insights
 ---
 ## ⚙️ Setup & Usage
 
@@ -106,7 +107,7 @@ The dashboard consists of the following main pages:
 4. **Product & Usage Behavior**  
    Visualizes customer interactions with products and services, including usage frequency and engagement patterns.
 
-5. **Customer Support & Engagement**  
+5.5. **Customer Support & Engagement Drivers** 
    Tracks customer support interactions, engagement levels, and identifies potential churn signals.
 
 ### 📸 Dashboard Preview
