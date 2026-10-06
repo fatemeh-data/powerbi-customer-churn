@@ -109,7 +109,22 @@ The dashboard consists of the following main pages:
 5. **Customer Support & Engagement**  
    Tracks customer support interactions, engagement levels, and identifies potential churn signals.
 
+### 📸 Dashboard Preview
 
+#### 1. Executive Overview
+![Executive Overview](images/Executive%20Overview.JPG)
+
+#### 2. Customer Demographics & Behavior
+![Customer Demographics & Behavior](images/Customer%20Demographics%20%26%20Behavior.JPG)
+
+#### 3. Contract & Pricing Drivers
+![Contract & Pricing Drivers](images/Contract%20%26%20Pricing%20Drivers.JPG)
+
+#### 4. Product & Usage Behavior
+![Product & Usage Behavior](images/product%26Usage%20Behavior.JPG)
+
+#### 5. Customer Support & Engagement Drivers
+![Customer Support & Engagement Drivers](images/Customer%20Support%20%26%20Engagement%20Drivers.JPG)
 
 
 ---
