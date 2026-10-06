@@ -115,13 +115,10 @@ The dashboard consists of the following main pages:
 
 ![Executive Overview](images/Executive%20Overview.JPG)
 
-![Customer Demographics & Behavior](images/Customer%20Demographics%20%26%20Behavior.JPG)
-
-![Contract & Pricing Drivers](images/Contract%20%26%20Pricing%20Drivers.JPG)
-
-![product&Usage Behavior](images/product%26Usage%20Behavior.JPG)
-
-![Customer Support & Engagement Drivers](images/Customer%20Support%20%26%20Engagement%20Drivers.JPG)
+![Customer Demographics & Behavior](images/Customer%20Demographics%20&%20Behavior.JPG)
+![Contract & Pricing Drivers](images/Contract%20&%20Pricing%20Drivers.JPG)
+![Product & Usage Behavior](images/product&Usage%20Behavior.JPG)
+![Customer Support & Engagement Drivers](images/Customer%20Support%20&%20Engagement%20Drivers.JPG)
 ---
 ## 👤 About Me
 I am a data analyst focused on transforming raw data into actionable business insights and supporting decision-making through data.
