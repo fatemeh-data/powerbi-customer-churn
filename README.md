@@ -111,8 +111,6 @@ The dashboard consists of the following main pages:
 
 *Include screenshots of dashboard pages here for visual impact.*
 
-## 📸 Dashboard Preview
-
 ![Executive Overview](images/Executive%20Overview.JPG)
 
 ![Customer Demographics & Behavior](images/Customer%20Demographics%20&%20Behavior.JPG)
