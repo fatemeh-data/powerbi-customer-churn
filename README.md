@@ -86,7 +86,7 @@ Customer-level dataset including demographics, contract details, usage behavior,
 ---
 ## 📁 Project Files
 - `churn.pbix` → Main Power BI dashboard  
- 
+ - `images/` → Dashboard screenshots
 - `README.md` → Project documentation  
 
 ---
